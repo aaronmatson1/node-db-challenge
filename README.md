@@ -40,11 +40,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+  A Relational Database is a database that store "related" Data.
+  SQL is a language used to manage databses and the data within them. It's optimized for the sole purpose of querying data.
+
 - [ ] Why do tables need a `primary key`?
+
+  A primary key is a way to identify each entry in the database uniquely.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+  A Foreign Key Reference
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+  A Join Table(?)
 
 ## Minimum Viable Product
 
